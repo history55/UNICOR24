@@ -1,0 +1,48 @@
+ .u-section-1 {
+  background-image: linear-gradient(#adf6f2, #4c7397);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 344px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 265px;
+  height: 223px;
+  margin: 47px 96px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.4375rem;
+  font-weight: 700;
+  margin: -180px auto 60px 74px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 357px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 55px;
+    margin-right: 39px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -174px;
+    margin-left: 2px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: -180px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+}
